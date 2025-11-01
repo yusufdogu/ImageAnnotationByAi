@@ -1,4 +1,4 @@
-## Data Annotation Tool 🖼️✍️
+## Image Labeling By AI Tool
 
 A custom-built data annotation tool developed to make dataset preparation easier and more efficient for computer vision and AI projects.
 This project was originally created as part of our work for Teknofest AI in Aviation and later improved for general-purpose usage.
