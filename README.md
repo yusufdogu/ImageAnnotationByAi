@@ -14,7 +14,7 @@ This project was originally created as part of our work for Teknofest AI in Avia
 
 
 To dive deeper into the concept and inspiration behind this project, check out my detailed Medium article:  
-👉 [Revolutionizing Education — A Way of Putting a Teacher’s Brain into a Computer](https://ydogu159.medium.com/let-ai-label-your-images-2609f25dda63)
+👉 [Let AI Label Your Images](https://ydogu159.medium.com/let-ai-label-your-images-2609f25dda63)
 
 ## ✨ Features
 
