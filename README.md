@@ -3,6 +3,16 @@
 A custom-built data annotation tool developed to make dataset preparation easier and more efficient for computer vision and AI projects.
 This project was originally created as part of our work for Teknofest AI in Aviation and later improved for general-purpose usage.
 
+<p align="center">
+  <img src="before_ai_labeling.png" alt="Before Annotation" width="45%"/>
+  <img src="ai_labeled_image.png" alt="After Annotation" width="45%"/>
+</p>
+
+<p align="center">
+  <b>Before</b> 🡒 <b>After</b>
+</p>
+
+
 ## ✨ Features
 
 ✅ Simple and user-friendly interface for annotating images
