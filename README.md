@@ -12,6 +12,7 @@ This project was originally created as part of our work for Teknofest AI in Avia
   <b>Before</b> 🡒 <b>After</b>
 </p>
 
+[![Read on Medium](https://img.shields.io/badge/Read%20on-Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@ydogu159/let-ai-label-your-images-2609f25dda63))
 
 ## ✨ Features
 
